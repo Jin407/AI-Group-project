@@ -1,3 +1,2 @@
-pip install gym
 pip install gymnasium
 pip install stable_baseline3
