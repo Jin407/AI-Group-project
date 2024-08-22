@@ -28,11 +28,11 @@ python3 Q-learning_GUI.py
 
 python3 DQN_GUI.py
 
+WARNING: DQN algorithm takes a while to run as the number of timesteps required to train our DQN agent is very large.
+
 # To run SARSA_GUI.py:
 
 python3 SARSA_GUI.py
-
-WARNING: DQN algorithm takes a while to run as the number of timesteps required to train our DQN agent is very large.
 
 # In conlusion to run our programme, simply follow these commands on terminal or cmd:
 
