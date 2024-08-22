@@ -16,25 +16,25 @@ git clone https://github.com/Jin407/AI-Group-project
 
 Alternatively, you can download the files directly from GitHub.
 
-# To run the programme:
+# To install the dependencies:
 
 pip install -r requirements.txt
 
-To run Q-learning algorithm GUI:
+# To run Q-learning algorithm GUI:
 
 python3 Q-learning_GUI.py
 
-To run DQN algorithm GUI:
+# To run DQN algorithm GUI:
 
 python3 DQN_GUI.py
 
-To run SARSA_GUI.py:
+# To run SARSA_GUI.py:
 
 python3 SARSA_GUI.py
 
 # WARNING: DQN algorithm takes a while to run as the number of timesteps required to train our DQN agent is very large.
 
-In conlusion to run our programme, simply follow these commands on terminal or cmd:
+# In conlusion to run our programme, simply follow these commands on terminal or cmd:
 
 1. git clone https://github.com/Jin407/AI-Group-project
 
