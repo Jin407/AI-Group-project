@@ -16,7 +16,7 @@ git clone https://github.com/Jin407/AI-Group-project
 
 Alternatively, you can download the files directly from GitHub.
 
-# To run the programme, you will need to pip install the dependecies:
+# To run the programme:
 
 pip install -r requirements.txt
 
