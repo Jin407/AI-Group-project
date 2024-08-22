@@ -11,6 +11,7 @@ Python 3
 Git
 
 To clone the repository, open terminal or cmd and run the following command:
+
 git clone https://github.com/Jin407/AI-Group-project
 
 Alternatively, you can download the files directly from GitHub.
