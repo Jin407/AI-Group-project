@@ -52,4 +52,12 @@ Alternatively, you can download the programmes directly from Github and run them
 
 The GUI provide a way to edit the learning rate, discount factor and number of training episodes/timesteps of our reinforcement learning algorithm and see how it impacts the performance of our model.
 
+# References:
+Yong, K. S. (2023, February 3). Commentary: Singapore must clear the roadblocks for driverless cars. CNA. https://www.channelnewsasia.com/commentary/singapore-roadblocks-driverless-cars-autonomous-investment-benefits-risks-3249071
+Bajo, P. L. (2022, March 9). Q-learning – Hands-on RL course – Part 2. Datamachines by Pau Labarta Bajo. https://datamachines.xyz/2021/12/06/hands-on-reinforcement-learning-course-part-2-q-learning/
+Androz, G. (2022, March 30). Reinforcement Learning — Teach a Taxi Cab to drive around with Q-Learning. Medium. https://towardsdatascience.com/reinforcement-learning-teach-a-taxi-cab-to-drive-around-with-q-learning-9913e611028f
+Androz, G. (2022a, March 30). Deep Q-Learning with Pytorch and OpenAI-gym: The Taxi-cab puzzle. Medium. https://guandroz.medium.com/deep-q-learning-with-pytorch-and-openai-gym-the-taxi-cab-puzzle-e7a3028f732
+
+
+
 
